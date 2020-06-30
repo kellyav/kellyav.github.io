@@ -25,3 +25,12 @@ defined with the <a> tag:
 ```
 <a href="https://www.w3schools.com">This is a link</a>
 ```
+
+## HTML images
+defined with the '<img>' tag.
+
+The source file (src), alternative text (alt), width, and height are provided as attributes:
+
+```
+<img src="image.jpg" alt="github.com" width="104" height="142">
+```
