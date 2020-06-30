@@ -1,4 +1,4 @@
-# kellyav.github.io
+# The Hungry Nerd blog  
 
 I already started a website where I blog: https://kellyav0.wixsite.com/thehungrynerd.
 
@@ -7,7 +7,7 @@ But, I wanted to take a stab at creating my own website from scratch, using GitH
 Check it out in the meantime, while I get my GitHub Page working!
 
 
-## The Hungry Nerd blog on GitHub
+## kellyav.github.io as The Hungry Nerd on GitHub
 
 Check out my GitHub Page! https://kellyav.github.io. It's brand-spanking new. Still learning HTML, CSS, and JS so any advice is appreciated :) 
 
